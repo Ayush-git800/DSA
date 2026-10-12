@@ -3,6 +3,7 @@ using namespace std;
 
 int main() {
     int t; cin>>t;
+    cout<<"Hello World!"<<endl;
     for(int i =1; i<=t; i++){
     int n; cin>>n;
     bool rowFlag = true;
